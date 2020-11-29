@@ -1,7 +1,7 @@
 # GAN-project
 GANs have very specific use case and it can be difficult to understand these use cases.
 Examples of GANS applications:
--Generate Examples for Image Datasets
+-Generate Examples for Image Datasets <br/>
 -Generate Photographs of Human Faces
 -Generate Realistic Photographs
 -Generate Cartoon Characters
